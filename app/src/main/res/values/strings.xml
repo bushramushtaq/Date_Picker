@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DatePicker</string>
+    <string name="message_textview">Asslamu-alaikum BSE! Choose a date</string>
+    <string name="date_picker">Choose Date</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="datepicker">datePicker</string>
+    <string name="date">Date</string>
+
+</resources>
